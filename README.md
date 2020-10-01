@@ -1,4 +1,4 @@
- # :heavy_exclamation_mark: PROJECTO ESCENARIOS DE VIDEOJUEGOS :heavy_exclamation_mark:
+ # :heavy_exclamation_mark: PROYECTO ESCENARIOS DE VIDEOJUEGOS :heavy_exclamation_mark:
 ---
 
 
